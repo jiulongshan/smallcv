@@ -1,0 +1,1 @@
+/media/lhb/long/Ingenic/sdk/mips-gcc472-glibc216-64bit/bin/mips-linux-gnu-g++   -Wall -std=c++11 -muclibc -O3 -DNDEBUG   CMakeFiles/basic_example.dir/example.cpp.o  -o basic_example -Wl,-rpath,/media/lhb/long/github/smallcv1/build2 ../libsmallcv.so 

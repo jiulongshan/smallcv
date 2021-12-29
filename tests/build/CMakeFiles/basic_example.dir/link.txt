@@ -1,0 +1,1 @@
+/usr/bin/c++   -g -std=c++11   CMakeFiles/basic_example.dir/example.cpp.o  -o basic_example  -L/media/lhb/long/github/smallcv/tests/../compile/install/lib -Wl,-rpath,/media/lhb/long/github/smallcv/tests/../compile/install/lib -lsmallcv 

@@ -1,0 +1,3 @@
+/media/lhb/long/github/smallcv/tests/build/CMakeFiles/rebuild_cache.dir
+/media/lhb/long/github/smallcv/tests/build/CMakeFiles/basic_example.dir
+/media/lhb/long/github/smallcv/tests/build/CMakeFiles/edit_cache.dir

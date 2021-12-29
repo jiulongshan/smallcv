@@ -1,0 +1,14 @@
+/media/lhb/long/github/smallcv1/build2/CMakeFiles/install/strip.dir
+/media/lhb/long/github/smallcv1/build2/CMakeFiles/edit_cache.dir
+/media/lhb/long/github/smallcv1/build2/CMakeFiles/smallcv.dir
+/media/lhb/long/github/smallcv1/build2/CMakeFiles/rebuild_cache.dir
+/media/lhb/long/github/smallcv1/build2/CMakeFiles/list_install_components.dir
+/media/lhb/long/github/smallcv1/build2/CMakeFiles/install/local.dir
+/media/lhb/long/github/smallcv1/build2/CMakeFiles/install.dir
+/media/lhb/long/github/smallcv1/build2/examples/CMakeFiles/install/strip.dir
+/media/lhb/long/github/smallcv1/build2/examples/CMakeFiles/edit_cache.dir
+/media/lhb/long/github/smallcv1/build2/examples/CMakeFiles/basic_example.dir
+/media/lhb/long/github/smallcv1/build2/examples/CMakeFiles/rebuild_cache.dir
+/media/lhb/long/github/smallcv1/build2/examples/CMakeFiles/list_install_components.dir
+/media/lhb/long/github/smallcv1/build2/examples/CMakeFiles/install/local.dir
+/media/lhb/long/github/smallcv1/build2/examples/CMakeFiles/install.dir

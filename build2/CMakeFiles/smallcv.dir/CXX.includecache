@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/media/lhb/long/github/smallcv1/src/smallcv/smallcv.cpp
+smallcv/smallcv.hpp
+/media/lhb/long/github/smallcv1/src/smallcv/smallcv/smallcv.hpp
+assert.h
+-
+cmath
+-
+limits
+-
+iostream
+-
+string.h
+-
+

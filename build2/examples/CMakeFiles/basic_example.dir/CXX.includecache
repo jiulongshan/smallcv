@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/media/lhb/long/github/smallcv1/examples/example.cpp
+vld.h
+-
+string
+-
+memory
+-
+iostream
+-
+string.h
+-
+smallcv/smallcv.hpp
+/media/lhb/long/github/smallcv1/examples/smallcv/smallcv.hpp
+

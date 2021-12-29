@@ -1,0 +1,42 @@
+[
+{
+  "directory": "/media/lhb/long/github/smallcv1/build2",
+  "command": "/media/lhb/long/Ingenic/sdk/mips-gcc472-glibc216-64bit/bin/mips-linux-gnu-g++  -DSMALLCV_IMAGEIO -Dsmallcv_EXPORTS -I/media/lhb/long/github/smallcv1/src -I/media/lhb/long/github/smallcv1/api -I/media/lhb/long/github/smallcv1/deps/stb   -Wall -std=c++11 -muclibc -O3 -DNDEBUG -fPIC   -std=gnu++11 -o CMakeFiles/smallcv.dir/src/smallcv/smallcv.cpp.o -c /media/lhb/long/github/smallcv1/src/smallcv/smallcv.cpp",
+  "file": "/media/lhb/long/github/smallcv1/src/smallcv/smallcv.cpp"
+},
+{
+  "directory": "/media/lhb/long/github/smallcv1/build2",
+  "command": "/media/lhb/long/Ingenic/sdk/mips-gcc472-glibc216-64bit/bin/mips-linux-gnu-g++  -DSMALLCV_IMAGEIO -Dsmallcv_EXPORTS -I/media/lhb/long/github/smallcv1/src -I/media/lhb/long/github/smallcv1/api -I/media/lhb/long/github/smallcv1/deps/stb   -Wall -std=c++11 -muclibc -O3 -DNDEBUG -fPIC   -std=gnu++11 -o CMakeFiles/smallcv.dir/src/smallcv/improc_private.cpp.o -c /media/lhb/long/github/smallcv1/src/smallcv/improc_private.cpp",
+  "file": "/media/lhb/long/github/smallcv1/src/smallcv/improc_private.cpp"
+},
+{
+  "directory": "/media/lhb/long/github/smallcv1/build2",
+  "command": "/media/lhb/long/Ingenic/sdk/mips-gcc472-glibc216-64bit/bin/mips-linux-gnu-g++  -DSMALLCV_IMAGEIO -Dsmallcv_EXPORTS -I/media/lhb/long/github/smallcv1/src -I/media/lhb/long/github/smallcv1/api -I/media/lhb/long/github/smallcv1/deps/stb   -Wall -std=c++11 -muclibc -O3 -DNDEBUG -fPIC   -std=gnu++11 -o CMakeFiles/smallcv.dir/src/smallcv/imdraw.cpp.o -c /media/lhb/long/github/smallcv1/src/smallcv/imdraw.cpp",
+  "file": "/media/lhb/long/github/smallcv1/src/smallcv/imdraw.cpp"
+},
+{
+  "directory": "/media/lhb/long/github/smallcv1/build2",
+  "command": "/media/lhb/long/Ingenic/sdk/mips-gcc472-glibc216-64bit/bin/mips-linux-gnu-g++  -DSMALLCV_IMAGEIO -Dsmallcv_EXPORTS -I/media/lhb/long/github/smallcv1/src -I/media/lhb/long/github/smallcv1/api -I/media/lhb/long/github/smallcv1/deps/stb   -Wall -std=c++11 -muclibc -O3 -DNDEBUG -fPIC   -std=gnu++11 -o CMakeFiles/smallcv.dir/src/smallcv/border.cpp.o -c /media/lhb/long/github/smallcv1/src/smallcv/border.cpp",
+  "file": "/media/lhb/long/github/smallcv1/src/smallcv/border.cpp"
+},
+{
+  "directory": "/media/lhb/long/github/smallcv1/build2",
+  "command": "/media/lhb/long/Ingenic/sdk/mips-gcc472-glibc216-64bit/bin/mips-linux-gnu-g++  -DSMALLCV_IMAGEIO -Dsmallcv_EXPORTS -I/media/lhb/long/github/smallcv1/src -I/media/lhb/long/github/smallcv1/api -I/media/lhb/long/github/smallcv1/deps/stb   -Wall -std=c++11 -muclibc -O3 -DNDEBUG -fPIC   -std=gnu++11 -o CMakeFiles/smallcv.dir/src/smallcv/benchmark.cpp.o -c /media/lhb/long/github/smallcv1/src/smallcv/benchmark.cpp",
+  "file": "/media/lhb/long/github/smallcv1/src/smallcv/benchmark.cpp"
+},
+{
+  "directory": "/media/lhb/long/github/smallcv1/build2",
+  "command": "/media/lhb/long/Ingenic/sdk/mips-gcc472-glibc216-64bit/bin/mips-linux-gnu-g++  -DSMALLCV_IMAGEIO -Dsmallcv_EXPORTS -I/media/lhb/long/github/smallcv1/src -I/media/lhb/long/github/smallcv1/api -I/media/lhb/long/github/smallcv1/deps/stb   -Wall -std=c++11 -muclibc -O3 -DNDEBUG -fPIC   -std=gnu++11 -o CMakeFiles/smallcv.dir/src/smallcv/resize.cpp.o -c /media/lhb/long/github/smallcv1/src/smallcv/resize.cpp",
+  "file": "/media/lhb/long/github/smallcv1/src/smallcv/resize.cpp"
+},
+{
+  "directory": "/media/lhb/long/github/smallcv1/build2",
+  "command": "/media/lhb/long/Ingenic/sdk/mips-gcc472-glibc216-64bit/bin/mips-linux-gnu-g++  -DSMALLCV_IMAGEIO -Dsmallcv_EXPORTS -I/media/lhb/long/github/smallcv1/src -I/media/lhb/long/github/smallcv1/api -I/media/lhb/long/github/smallcv1/deps/stb   -Wall -std=c++11 -muclibc -O3 -DNDEBUG -fPIC   -std=gnu++11 -o CMakeFiles/smallcv.dir/src/smallcv/imageio.cpp.o -c /media/lhb/long/github/smallcv1/src/smallcv/imageio.cpp",
+  "file": "/media/lhb/long/github/smallcv1/src/smallcv/imageio.cpp"
+},
+{
+  "directory": "/media/lhb/long/github/smallcv1/build2/examples",
+  "command": "/media/lhb/long/Ingenic/sdk/mips-gcc472-glibc216-64bit/bin/mips-linux-gnu-g++  -DSMALLCV_IMAGEIO -I/media/lhb/long/github/smallcv1/api   -Wall -std=c++11 -muclibc -O3 -DNDEBUG   -std=gnu++11 -o CMakeFiles/basic_example.dir/example.cpp.o -c /media/lhb/long/github/smallcv1/examples/example.cpp",
+  "file": "/media/lhb/long/github/smallcv1/examples/example.cpp"
+}
+]
